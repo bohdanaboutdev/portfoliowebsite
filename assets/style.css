@@ -26,7 +26,7 @@ section {
     margin: 0 auto;
     max-width: var(--container-width);
     padding: 15px;
-    width: 100%;
+    /*width: 100%;*/
 }
 
 .header .logo {
@@ -95,7 +95,7 @@ section {
     max-width: var(--container-width);
     padding-left: 15px;
     padding-right: 15px;
-    width: 100%;
+    /*width: 100%;*/
 }
 
 #photo-section .photo, #photo-section .job-title {
